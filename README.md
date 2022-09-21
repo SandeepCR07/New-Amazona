@@ -1,4 +1,4 @@
-# MERN AMAZONA
+# NEW AMAZONA
 
 ![amazona](/frontend/public/images/amazona.jpg)
 
